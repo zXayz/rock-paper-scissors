@@ -51,10 +51,6 @@ const scissors = document.querySelector("#scissors");
 scissors.addEventListener("click", (event) => checkChoice(event));
 
 
-class newClass{
-    
-}
-
 
 
 
